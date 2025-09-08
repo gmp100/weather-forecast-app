@@ -1,12 +1,57 @@
-# React + Vite
+Weather Forecast App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Weather Forecast is a responsive web application that provides real-time, location-based weather updates with a detailed 7-day outlook. It integrates the OpenWeather API for accurate forecasts and uses Leaflet.js for interactive maps with temperature, wind, and precipitation overlays. Built with React.js and Tailwind CSS, it features a modern, animated UI with search functionality and favorite cities.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Real-time weather updates for any city
 
-## Expanding the ESLint configuration
+7-day detailed forecast (temperature, wind, humidity, precipitation)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Location-based forecasts
+
+Interactive maps with Leaflet.js
+
+Search option to find cities worldwide
+
+Save favorite cities for quick access
+
+Responsive, modern UI with animations
+
+Tech Stack
+
+React.js
+
+Tailwind CSS
+
+OpenWeather API
+
+Leaflet.js
+
+Installation
+# Clone the repository
+git clone https://github.com/your-username/weather-forecast-app.git
+
+# Navigate into project folder
+cd weather-forecast-app
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+Usage
+
+Search for a city to get current and 7-day forecast.
+
+View temperature, wind, humidity, and precipitation.
+
+Use the map to explore weather overlays.
+
+Save your favorite cities for easy access.
+
+Author
+
+Gaurav Patil
+Frontend Developer | React.js | Tailwind CSS
